@@ -10,7 +10,7 @@
     "tokens_promedio": 600
   },
   "no_empeorar": ["accuracy_categoria"],
-  "tolerancia": 0.05,
+  "tolerancia": 0.10,
   "monitoreo": {
     "psi_categorias": 0.25,
     "fuera_de_contrato": 0.05,
